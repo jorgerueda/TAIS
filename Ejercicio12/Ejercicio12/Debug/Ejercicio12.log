@@ -1,0 +1,9 @@
+﻿  Ejercicio12.cpp
+\\mac\home\documents\visual studio 2015\projects\ejercicio12\ejercicio12\grafodirigido.h(79): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio12\ejercicio12\grafodirigido.h(92): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio12\ejercicio12\grafodirigido.h(232): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio12\ejercicio12\grafodirigido.h(283): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio12\ejercicio12\ejercicio12.cpp(16): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio12\ejercicio12\ejercicio12.cpp(43): warning C4715: 'resuelveCaso': not all control paths return a value
+  Ejercicio12.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio12\Debug\Ejercicio12.exe
+  Ejercicio12.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio12\Debug\Ejercicio12.pdb (Partial PDB)

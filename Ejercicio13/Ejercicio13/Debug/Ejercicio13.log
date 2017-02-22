@@ -1,0 +1,9 @@
+﻿  Ejercicio13.cpp
+\\mac\home\documents\visual studio 2015\projects\ejercicio13\ejercicio13\grafodirigido.h(79): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio13\ejercicio13\grafodirigido.h(92): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio13\ejercicio13\grafodirigido.h(232): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio13\ejercicio13\grafodirigido.h(283): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio13\ejercicio13\ejercicio13.cpp(38): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+\\mac\home\documents\visual studio 2015\projects\ejercicio13\ejercicio13\ejercicio13.cpp(29): warning C4715: 'getAtajo': not all control paths return a value
+  Ejercicio13.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio13\Debug\Ejercicio13.exe
+  Ejercicio13.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio13\Debug\Ejercicio13.pdb (Partial PDB)

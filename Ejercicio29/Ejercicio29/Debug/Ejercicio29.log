@@ -1,0 +1,11 @@
+﻿  Ejercicio29.cpp
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(35): warning C4018: '<=': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(76): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(70): warning C4101: 'numCofres': unreferenced local variable
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(70): warning C4101: 'tiempoBuceo': unreferenced local variable
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(70): warning C4101: 'prof': unreferenced local variable
+\\mac\home\documents\visual studio 2015\projects\ejercicio29\ejercicio29\ejercicio29.cpp(70): warning C4101: 'valorMax': unreferenced local variable
+  Ejercicio29.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio29\Debug\Ejercicio29.exe
+  Ejercicio29.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio29\Debug\Ejercicio29.pdb (Partial PDB)

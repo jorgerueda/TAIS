@@ -1,0 +1,7 @@
+﻿  Ejercicio33.cpp
+\\mac\home\documents\visual studio 2015\projects\ejercicio33\ejercicio33\ejercicio33.cpp(20): warning C4018: '<=': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio33\ejercicio33\ejercicio33.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio33\ejercicio33\ejercicio33.cpp(54): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio33\ejercicio33\ejercicio33.cpp(76): warning C4101: 'coste': unreferenced local variable
+  Ejercicio33.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio33\Debug\Ejercicio33.exe
+  Ejercicio33.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio33\Debug\Ejercicio33.pdb (Partial PDB)

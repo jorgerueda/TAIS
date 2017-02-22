@@ -1,0 +1,7 @@
+﻿  Ejercicio40.cpp
+\\mac\home\documents\visual studio 2015\projects\ejercicio40\ejercicio40\ejercicio40.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\ejercicio40\ejercicio40\ejercicio40.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\ejercicio40\ejercicio40\ejercicio40.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\ejercicio40\ejercicio40\ejercicio40.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  Ejercicio40.vcxproj -> \\mac\home\Documents\Visual Studio 2015\Projects\Ejercicio40\Debug\Ejercicio40.exe
+  Ejercicio40.vcxproj -> \\mac\home\Documents\Visual Studio 2015\Projects\Ejercicio40\Debug\Ejercicio40.pdb (Partial PDB)

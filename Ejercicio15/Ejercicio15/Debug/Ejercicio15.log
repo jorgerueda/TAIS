@@ -1,0 +1,8 @@
+﻿  Ejercicio15.cpp
+\\mac\home\documents\visual studio 2015\projects\ejercicio15\ejercicio15\grafo.h(72): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio15\ejercicio15\cc.h(18): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio15\ejercicio15\manchaspetroleo.h(138): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio15\ejercicio15\manchaspetroleo.h(158): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\documents\visual studio 2015\projects\ejercicio15\ejercicio15\ejercicio15.cpp(18): warning C4101: 'numManchasAdicionales': unreferenced local variable
+  Ejercicio15.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio15\Debug\Ejercicio15.exe
+  Ejercicio15.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Ejercicio15\Debug\Ejercicio15.pdb (Partial PDB)
